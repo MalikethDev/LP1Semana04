@@ -23,7 +23,6 @@ namespace BetterDecorador
             // new string(dec, i) creates a string with i times the char dec
             return $"{new string(dec, i)} {s} {new string(dec, i)}";
         }
-
         /// <summary>
         /// Main function
         /// </summary>
